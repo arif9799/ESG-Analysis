@@ -9,15 +9,15 @@
 <br>
 
 
-<p align="center">
+<h4 align="center">
   <a href="https://huggingface.co/spaces/arif97/ESG_Demo">Visit the Application</a>
-</p>
+</h4>
 
 <br>
 
-<p align="center">
+<h4 align="center">
   <a href="https://huggingface.co/spaces/arif97/ESG_Demo/tree/main">Link to Code and Files</a>
-</p>
+</h4>
 
 
 
