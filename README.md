@@ -52,6 +52,24 @@ This project analyzes ESG (Environmental, Social, and Governance) scores using v
 1. **Data Retrieval:** Utilized the `yesg` library to fetch ESG scores for multiple companies. This involved creating functions to retrieve and process data efficiently.
 2. **Data Processing:** Cleaned and preprocessed the ESG data using `pandas`. This included handling missing values, normalizing scores, and preparing data for visualization.
 3. **Visualization:** Employed `plotly` for creating interactive visualizations, showcasing trends and comparisons across different ESG dimensions.
+<table align="center">
+  <tr align="center">
+    <td><img src="https://huggingface.co/spaces/arif97/ESG_Demo/resolve/main/Images/Viz1.png" width="700" alt="Environment"></td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr align="center">
+    <td><img src="https://huggingface.co/spaces/arif97/ESG_Demo/resolve/main/Images/Viz2.png" width="700" alt="Environment"></td>
+  </tr>
+</table>
+<br>
+<table align="center">
+  <tr align="center">
+    <td><img src="https://huggingface.co/spaces/arif97/ESG_Demo/resolve/main/Images/Viz3.png" width="700" alt="Environment"></td>
+  </tr>
+</table>
+
 4. **Web Application:** Developed a Streamlit application to provide an interactive interface for users to explore ESG data. This included various UI components for selecting companies, filtering data, and viewing detailed insights.
 5. **Natural Language Processing:** Leveraged LangChain to process and analyze textual data related to ESG scores, extracting meaningful insights from reports and documents.
 6. **Dockerization:** Used Docker to containerize the application, ensuring portability and ease of deployment.
